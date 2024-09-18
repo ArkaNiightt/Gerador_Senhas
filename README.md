@@ -1,6 +1,7 @@
 # Gerador de Senhas com Streamlit
 
-![Gerador de Senhas](https://i.imgur.com/tyNeStN.png)
+
+<img style="width: 500px" alt="" src="https://i.imgur.com/tyNeStN.png">
 
 Este projeto é um gerador de senhas interativo criado com a biblioteca **Streamlit** em Python. A interface permite que o usuário configure os tipos de caracteres que deseja incluir na senha (letras maiúsculas, minúsculas, números e caracteres especiais) e também a quantidade de caracteres especiais.
 
